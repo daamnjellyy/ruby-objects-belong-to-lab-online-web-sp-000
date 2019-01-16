@@ -3,6 +3,5 @@ class Artist
 
   def initialize
     @name = name
-    @song = Artist.new
   end
 end
